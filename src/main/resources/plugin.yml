@@ -1,0 +1,5 @@
+name: BungeeWhitelist
+main: com.minecats.bungeewhitelist.BungeeWhitelist
+author: cindy_k
+version: 2.0
+depends: [Yamler]
